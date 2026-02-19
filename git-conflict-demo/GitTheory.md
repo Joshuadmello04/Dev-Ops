@@ -1,6 +1,6 @@
 <!-- # Git Theory - Updated from Master Branch
 # Git Theory - Updated from Feature Branch -->
-
+# github made a change and i havent pulled but lets try commiting
 # Git Theory - Updated from Both Branches
 
 \# AI Notes
