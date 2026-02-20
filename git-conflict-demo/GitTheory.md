@@ -4,7 +4,7 @@
 # Git Theory - Updated from Both Branches
 
 \# AI Notes
-
+notes summarized by claude bro.
 
 
 \- notes
