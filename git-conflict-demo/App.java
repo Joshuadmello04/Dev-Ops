@@ -10,7 +10,7 @@ public class App {
     }
 
     public static int calculateDiscount(int price) {
-        return price - 100;
+        return price - 150;
     }
 
     public static int applyTax(int price) {
